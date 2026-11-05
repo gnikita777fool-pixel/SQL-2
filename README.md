@@ -192,6 +192,8 @@ ALTER TABLE customers MODIFY COLUMN phone VARCHAR(30);
 ALTER TABLE customers DROP COLUMN phone;
 ```
 
+<img width="503" height="340" alt="image" src="https://github.com/user-attachments/assets/40b3e390-c6a2-4f32-b81e-32dd39ade0e8" />
+
 **15. Создание дампа (бэкапа)** 
 Выйдите из MySQL (`\q`), чтобы вернуться в **терминал хоста**.
 Сделайте дамп базы:
